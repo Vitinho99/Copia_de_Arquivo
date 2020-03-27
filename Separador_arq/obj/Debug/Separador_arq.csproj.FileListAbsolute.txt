@@ -1,0 +1,6 @@
+C:\Users\vtr_p\source\repos\Separador_arq\Separador_arq\bin\Debug\Separador_arq.exe.config
+C:\Users\vtr_p\source\repos\Separador_arq\Separador_arq\bin\Debug\Separador_arq.exe
+C:\Users\vtr_p\source\repos\Separador_arq\Separador_arq\bin\Debug\Separador_arq.pdb
+C:\Users\vtr_p\source\repos\Separador_arq\Separador_arq\obj\Debug\Separador_arq.csprojAssemblyReference.cache
+C:\Users\vtr_p\source\repos\Separador_arq\Separador_arq\obj\Debug\Separador_arq.exe
+C:\Users\vtr_p\source\repos\Separador_arq\Separador_arq\obj\Debug\Separador_arq.pdb
